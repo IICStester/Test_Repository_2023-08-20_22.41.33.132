@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "7A8sZiaHmWhfTqhN7p96aq",
-    "name" : "Versioned Mapping - Rename",
+    "name" : "Versioned Mapping - Rename renamed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-08-21T05:41:57.688Z",
+  "updateTime" : "2023-08-21T05:42:53.333Z",
   "objectRefs" : [ ]
 }
